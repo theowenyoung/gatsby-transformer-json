@@ -1,0 +1,33 @@
+{
+  "name": "@theowenyoung/gatsby-transformer-json",
+  "description": "Gatsby transformer plugin for JSON files",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "dependencies": {
+
+  },
+  "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-json#readme",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "json"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^3.0.0-next.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby.git",
+    "directory": "packages/gatsby-transformer-json"
+  },
+  "scripts": {
+    
+  },
+  "engines": {
+    "node": ">=12.13.0"
+  }
+}
